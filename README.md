@@ -19,7 +19,7 @@ Click/tap to enlarge.
 
 - [Doubutsu Shogi](http://shop.nekomado.com/products/list.php?category_id=20) created by Madoka Kitao and Maiko Fujita.
 
-- [Doubutu Shogi vector images](https://github.com/Kadagaden/shogi-pieces/tree/master/doubutsu) by [Kadagaden](https://github.com/Kadagaden) licensed under [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0).
+- Vector images of Doubutsu Shogi [board](https://github.com/Kadagaden/shogi-pieces/tree/master/boards) and [pieces](https://github.com/Kadagaden/shogi-pieces/tree/master/doubutsu) by [Kadagaden](https://github.com/Kadagaden) licensed under [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0).
 
 # 
 *Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [Lichess.org](https://lichess.org).*
