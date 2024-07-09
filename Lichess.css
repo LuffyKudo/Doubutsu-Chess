@@ -1,11 +1,3 @@
-/* ==UserStyle==
-@name          Doubutsu Chess
-@namespace     https://github.com/LuffyKudo/Doubutsu-Chess
-@description   Play shogi using chess pieces and board on Lishogi.org!
-@author        LuffyKudo
-@license       CC-BY-SA-4.0
-==/UserStyle== */
-
 @-moz-document domain("lichess.org") {
 .is2d .white.pawn,
       .cg-wrap.orientation-black .black.pawn,
