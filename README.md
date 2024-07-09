@@ -14,7 +14,7 @@ Click/tap to enlarge.
 
 <img src="https://raw.githubusercontent.com/LuffyKudo/Doubutsu-Chess/main/Screenshot%20(Lichess).png" alt="Doubutsu animal chess shogi Lichess Screenshot Madoka Kitao Maiko Fujita Peter K Wells vs Yoshiharu Habu Check to the Ooshoo!" width="75%"/>
 
-# Other Themes for Chess
+# Other Theme for Chess
 
 I also created a Shogi-Themed Chess in both 2-Kanji and 1-Kanji versions. You can check them at:
 
