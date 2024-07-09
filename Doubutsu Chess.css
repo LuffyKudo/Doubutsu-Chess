@@ -1,5 +1,5 @@
 @-moz-document domain("lichess.org") {
-.is2d .white.pawn, 
+.is2d .white.pawn,
       .cg-wrap.orientation-black .black.pawn,
       .pocket-bottom piece.black.pawn,
       .spare-bottom piece.black.pawn {
