@@ -1,3 +1,15 @@
+/* ==UserStyle==
+@name           Dobutsu Chess
+@version        1.0.0
+@namespace      https://github.com/LuffyKudo/Doubutsu-Chess
+@description    Play chess using Doubutsu Shogi's board and pieces on Lichess.org!
+@author         LuffyKudo (https://luffykudo.wordpress.com)
+@homepageURL    https://luffykudo.wordpress.com/2024/08/01/dobutsu-chess/
+@supportURL     https://github.com/LuffyKudo/Doubutsu-Chess/issues
+@updateURL      https://raw.githubusercontent.com/LuffyKudo/Doubutsu-Chess/main/Lichess.user.css
+@license        CC BY-SA 4.0
+==/UserStyle== */
+
 @-moz-document domain("lichess.org") {
 .is2d .white.pawn,
       .cg-wrap.orientation-black .black.pawn,
