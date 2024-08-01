@@ -29,11 +29,11 @@ I also created a Shogi-Themed Chess in both 2-Kanji and 1-Kanji versions. You ca
 [![Static Badge](https://img.shields.io/badge/GitHub-Shogi--Themed_Chess-blue?logo=github)](https://github.com/LuffyKudo/JI-Shogi-Themed-Chess)
 
 ## License
-- <p xmlns:cc="http://creativecommons.org/ns#" >Doubutsu Chess is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+- <p xmlns:cc="http://creativecommons.org/ns#" >Dobutsu Chess is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
-- [Doubutsu Shogi](http://shop.nekomado.com/products/list.php?category_id=20) created by Madoka Kitao and Maiko Fujita.
+- [Dobutsu Shogi](http://shop.nekomado.com/products/list.php?category_id=20) created by Madoka Kitao and Maiko Fujita.
 
-- Modified vector images of Doubutsu Shogi [board](https://github.com/Kadagaden/shogi-pieces/tree/master/boards) and [pieces](https://github.com/Kadagaden/shogi-pieces/tree/master/doubutsu) are originally by [Kadagaden](https://github.com/Kadagaden) licensed under [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0).
+- Modified vector images of Dobutsu Shogi [board](https://github.com/Kadagaden/shogi-pieces/tree/master/boards) and [pieces](https://github.com/Kadagaden/shogi-pieces/tree/master/doubutsu) are originally by [Kadagaden](https://github.com/Kadagaden) licensed under [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0).
 
 ##
 *Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [Lichess.org](https://lichess.org).*
