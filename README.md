@@ -2,12 +2,20 @@
 
 [Doubutsu Shogi](https://en.wikipedia.org/wiki/D%C5%8Dbutsu_sh%C5%8Dgi) (Animal Shogi) is a variant of shogi, the Japanese cousin of western chess. It was invented by professional shogi player Madoka Kitao and designed by fellow professional shogi player Maiko Fujita with the goal of encouraging and teaching young children play shogi.
 
-And now you can play chess using doubutsu shogi's board and pieces on Lichess!
+And now you can play chess using Dobutsu Shogi's board and pieces on Lichess.org!
+
+<img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/pieces-1.png" alt="Dobutsu Chess Shogi つしょうぎ Pieces Madoka Kitao Maiko Fujita Japanese Chess Jemierry J.I. JI Maglinte Jumawan LuffyKudo" width="360"/>
+<img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/setup.png" alt="Dobutsu Chess Shogi つしょうぎ Madoka Kitao Maiko Fujita Japanese Chess Jemierry J.I. JI Maglinte Jumawan LuffyKudo" width="360"/>
 
 - Board and pieces included
 - Works with all variants
 - Works with matches, puzzles, analysis and board editor
 - Available in 2D
+
+## Installation
+For instructions on how to install it, kindly visit:
+
+[![Static Badge](https://img.shields.io/badge/How_to_Install-Dobutsu_Chess-blue?logo=wordpress)](https://luffykudo.wordpress.com/2024/08/01/dobutsu-chess/#instructions) 
 
 ## Lichess Screenshot
 Click/tap to enlarge.
