@@ -8,7 +8,7 @@ And now you can play chess using Dobutsu Shogi's board and pieces on Lichess.org
 <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/setup.png" alt="Dobutsu Chess Shogi つしょうぎ Madoka Kitao Maiko Fujita Japanese Chess Jemierry J.I. JI Maglinte Jumawan LuffyKudo" width="360"/>
 
 - Board and pieces included
-- Works with all variants
+- Works with all variants on Lichess and all 8×8 standard pieces variants on Chesscom
 - Works with matches, puzzles, analysis and board editor
 - Available in 2D
 
@@ -17,10 +17,14 @@ For instructions on how to install it, kindly visit:
 
 [![Static Badge](https://img.shields.io/badge/How_to_Install-Dobutsu_Chess-blue?logo=wordpress)](https://luffykudo.wordpress.com/2024/08/01/dobutsu-chess/#instructions) 
 
-## Lichess Screenshot
+## Screenshots
 Click/tap to enlarge.
 
-<img src="https://raw.githubusercontent.com/LuffyKudo/Doubutsu-Chess/main/Screenshot%20(Lichess).png" alt="Doubutsu animal chess shogi Lichess Screenshot Madoka Kitao Maiko Fujita Peter K Wells vs Yoshiharu Habu Check to the Ooshoo!" width="75%"/>
+### Lichess Screenshot
+<img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/screenshot-lichess.png" alt="Doubutsu animal chess shogi Lichess Screenshot Madoka Kitao Maiko Fujita Peter K Wells vs Yoshiharu Habu Check to the Ooshoo!" width="75%"/>
+
+### Chesscom Screenshot
+<img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/screenshot-chesscom.jpg" alt="Doubutsu animal chess shogi chess.com Screenshot Madoka Kitao Maiko Fujita Peter K Wells vs Yoshiharu Habu Check to the Ooshoo!" width="75%"/>
 
 ## Other Theme for Chess
 
