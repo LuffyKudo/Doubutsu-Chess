@@ -44,4 +44,4 @@ Or view all themes at:
 - Modified vector images of Dobutsu Shogi [board](https://github.com/Kadagaden/shogi-pieces/tree/master/boards) and [pieces](https://github.com/Kadagaden/shogi-pieces/tree/master/doubutsu) are originally by [Kadagaden](https://github.com/Kadagaden) licensed under [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0).
 
 ##
-*Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [Lichess.org](https://lichess.org).*
+*Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [Lichess.org](https://lichess.org) and [Chess.com](https://www.chess.com).*
