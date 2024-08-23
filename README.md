@@ -2,7 +2,7 @@
 
 [Doubutsu Shogi](https://en.wikipedia.org/wiki/D%C5%8Dbutsu_sh%C5%8Dgi) (Animal Shogi) is a variant of shogi, the Japanese cousin of western chess. It was invented by professional shogi player Madoka Kitao and designed by fellow professional shogi player Maiko Fujita with the goal of encouraging and teaching young children play shogi.
 
-And now you can play chess using Dobutsu Shogi's board and pieces on Lichess.org and Chess.com!
+And now you can play chess using Dobutsu Shogi's board and pieces on Pychess.org, Lichess.org and Chess.com!
 
 <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/pieces-1.png" alt="Dobutsu Chess Shogi つしょうぎ Pieces Madoka Kitao Maiko Fujita Japanese Chess Jemierry J.I. JI Maglinte Jumawan LuffyKudo" width="360"/>
 <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/setup.png" alt="Dobutsu Chess Shogi つしょうぎ Madoka Kitao Maiko Fujita Japanese Chess Jemierry J.I. JI Maglinte Jumawan LuffyKudo" width="360"/>
@@ -13,12 +13,21 @@ And now you can play chess using Dobutsu Shogi's board and pieces on Lichess.org
 - Available in 2D
 
 ## Installation
-For instructions on how to install it, kindly visit:
+For instructions on how to install it on Lichess and Chesscom, kindly visit:
 
 [![Static Badge](https://img.shields.io/badge/How_to_Install-Dobutsu_Chess-blue?logo=wordpress)](https://luffykudo.wordpress.com/2024/08/01/dobutsu-chess/#instructions) 
 
+## Pychess
+
+Dobutsu Chess theme was recently added to Pychess.org. For more info please visit:
+
+[![Static Badge](https://img.shields.io/badge/Pychess-Dobutsu_Chess-purple?logo=wordpress)](https://luffykudo.wordpress.com/2024/08/01/dobutsu-chess/#dobutsu-chess-on-pychess) 
+
 ## Screenshots
 Click/tap to enlarge.
+
+### Pychess Screenshot
+<img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/screenshot-pychess.png" alt="Doubutsu animal chess shogi Pychess Screenshot Madoka Kitao Maiko Fujita Peter K Wells vs Yoshiharu Habu Check to the Ooshoo!" width="75%"/>
 
 ### Lichess Screenshot
 <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/screenshot-lichess.png" alt="Doubutsu animal chess shogi Lichess Screenshot Madoka Kitao Maiko Fujita Peter K Wells vs Yoshiharu Habu Check to the Ooshoo!" width="75%"/>
