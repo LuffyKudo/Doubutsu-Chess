@@ -26,14 +26,11 @@ Dobutsu Chess theme was recently added to Pychess.org. For more info please visi
 ## Screenshots
 Click/tap to enlarge.
 
-### Pychess Screenshot
-<img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/screenshot-pychess.png" alt="Doubutsu animal chess shogi Pychess Screenshot Madoka Kitao Maiko Fujita Peter K Wells vs Yoshiharu Habu Check to the Ooshoo!" width="75%"/>
-
-### Lichess Screenshot
-<img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/screenshot-lichess.png" alt="Doubutsu animal chess shogi Lichess Screenshot Madoka Kitao Maiko Fujita Peter K Wells vs Yoshiharu Habu Check to the Ooshoo!" width="75%"/>
-
-### Chesscom Screenshot
-<img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/screenshot-chesscom.jpg" alt="Doubutsu animal chess shogi chess.com Screenshot Madoka Kitao Maiko Fujita Peter K Wells vs Yoshiharu Habu Check to the Ooshoo!" width="75%"/>
+| Screenshot | Caption |
+|---|---|
+| <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/screenshot-pychess.png" alt="Doubutsu animal chess shogi Pychess Screenshot Madoka Kitao Maiko Fujita Peter K Wells vs Yoshiharu Habu Check to the Ooshoo!" width="360"/> | Dobutsu Chess on Pychess |
+| <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/screenshot-lichess.png" alt="Doubutsu animal chess shogi Lichess Screenshot Madoka Kitao Maiko Fujita Peter K Wells vs Yoshiharu Habu Check to the Ooshoo!" width="360"/> | Dobutsu Chess on Lichess |
+| <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/screenshot-chesscom.jpg" alt="Doubutsu animal chess shogi chess.com Screenshot Madoka Kitao Maiko Fujita Peter K Wells vs Yoshiharu Habu Check to the Ooshoo!" width="360"/> | Dobutsu Chess on Chesscom |
 
 ## Other Theme for Chess
 
